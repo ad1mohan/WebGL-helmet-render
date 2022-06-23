@@ -1,4 +1,4 @@
-# Three.js learning project
+# URP Rendering pipeline in Three.js and WebGl
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -14,3 +14,8 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+## Try On your own
+Click on github pages and try the build
+
+## Screenshot
+![Screenshot of Render](./static/ss.png)
